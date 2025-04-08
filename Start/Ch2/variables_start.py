@@ -10,10 +10,18 @@ mystr = "This is a string"
 mybool = True
 
 # We can display the content of a variable using the print() function
-
+# print(myint)
+# print(mystr)
 
 # Operators are used to perform operations on variables
+# print(myfloat + myint)
+# print(myfloat * myint)
+# print(myfloat / myint)
+# print(myfloat % 3)
 
+# another_str = "this is another string."
+
+# print(mystr + " and " + another_str)
 
 # Logical and comparison operators 
 
