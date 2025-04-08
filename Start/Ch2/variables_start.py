@@ -24,6 +24,8 @@ mybool = True
 # print(mystr + " and " + another_str)
 
 # Logical and comparison operators 
-
+# print(not(myint < 5 or myfloat < 25.0))
 
 # re-declaring a variable works
+myint = "abc"
+print(myint)
