@@ -33,7 +33,7 @@ mytuple = (0, 1, 2, "three")
 # Sets are also sequences, but they contain unique values (there can't be 2 or more of the same value because only 1 will print)
 # Can't be indexed
 myset = {1, 2, 3, 2, 4, "hey"}
-print(myset)
+#print(myset)
 
 # Set, however, can not be indexed like lists or tuples
 # print(myset[0]) # this will cause an error
